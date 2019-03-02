@@ -7,8 +7,8 @@ Description: Hide that ugly App Drawer and make return to the olden days when op
 Maintainer: KayFam
 Author: KayFam
 Section: Tweaks
-Filename: debs//com.kayfam.appselector_1.0.0-124+debug_iphoneos-arm.deb
-Size: 6076
-MD5sum: d544010ae0ceb001cca3b14320de3da5
-SHA1: fb82f39bdd56d22631692f56a26223935be47d83
-SHA256: 385521268a1d1ecad7409d163652e99600e9699b304d1e8c66f340440841afff
+Filename: debs//com.kayfam.appselector_1.0.1-1+debug_iphoneos-arm.deb
+Size: 6570
+MD5sum: aeb4f873d244b06602acf3ec13240182
+SHA1: 9f614b37bac07f735e558dd474d980665613d4ea
+SHA256: 54b3c1864c50c387d5e52d7580fe0bc6c50dca847b47d8871e8e7ec0d0c7f265
