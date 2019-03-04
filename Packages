@@ -1,7 +1,7 @@
 Package: com.kayfam.appselector
 Name: AppSelector
 Depends: mobilesubstrate
-Version: 1.0.1-1+debug
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Hide that ugly App Drawer and make return to the olden days when opening your photos didn't take so many presses! If you want to use another app, simply press the button with a little force and the App Drawer will be presented to you. When you select an app, that will become the new app that is opened when you press the button. (Setting to turn this off coming soon)
 Maintainer: KayFam
@@ -12,3 +12,18 @@ Size: 6570
 MD5sum: aeb4f873d244b06602acf3ec13240182
 SHA1: 9f614b37bac07f735e558dd474d980665613d4ea
 SHA256: 54b3c1864c50c387d5e52d7580fe0bc6c50dca847b47d8871e8e7ec0d0c7f265
+
+Package: com.kayfam.autoapollo
+Name: AutoApollo
+Depends: mobilesubstrate, ws.hbang.libopener (>= 3.1.2)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Updated version of gilshahar7's ApolloOpener. Open "reddit.com" links in the Apollo app using libOpener.
+Maintainer: gilshahar7, KayFam
+Author: gilshahar7, KayFam
+Section: Tweaks
+Filename: debs//com.kayfam.autoapollo_1.0.0_iphoneos-arm.deb
+Size: 4432
+MD5sum: af2c5e5e5af112842a845e21efda24a2
+SHA1: ee8e8b440ca9e7d541d1a09cafeec1391b0eeea7
+SHA256: f5f7643bf37899c80689f5950d859e1d51f9d515e5ac4c242ec3860537ce93ba
