@@ -15,16 +15,16 @@ Author: KayFam
 Name: AppSelector
 
 Package: com.kayfam.autoapollo
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: gilshahar7, KayFam
 Installed-Size: 100
 Depends: mobilesubstrate, ws.hbang.libopener (>= 3.1.2), com.spark.libsparkapplist
-Filename: debs/com.kayfam.autoapollo_1.0.2_iphoneos-arm.deb
-Size: 4936
-MD5sum: 133140b229ba656e1e1b287a0d5cb524
-SHA1: ec50d13edc0b606694f6fcec40ab6bf37088dd9b
-SHA256: 1e26b60b0a6dfe5c83bf6a684f3157e637bb7d0133569c154b698d10891079e6
+Filename: debs/com.kayfam.autoapollo_1.0.3_iphoneos-arm.deb
+Size: 5336
+MD5sum: fdc534f34a9c27ddad92b27f3c2c1405
+SHA1: 11ed9987d3fc1a0041403619e04348f7e87decf8
+SHA256: 26969e148df26990b35dbac9f7036972d7b2eb9cdc61846c61e201c453bc23ed
 Section: Tweaks
 Description: Open "reddit.com" links in the Apollo app using libOpener.
 Author: gilshahar7, KayFam
