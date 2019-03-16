@@ -30,3 +30,19 @@ Description: Open "reddit.com" links in the Apollo app using libOpener.
 Author: gilshahar7, KayFam
 Name: AutoApollo
 
+Package: com.kayfam.darkmaps
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KayFam
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/com.kayfam.darkmaps_0.0.1_iphoneos-arm.deb
+Size: 4700
+MD5sum: 2df30c759bede9ae559b1a793c4e0fc8
+SHA1: 20a5c9003ec5c018b324e4e731d5cddc4b1e765d
+SHA256: 802cc1b36958717938fe4fee58303100ac2dfd7e8718875e67184b1a7246d5aa
+Section: Tweaks
+Description: Any MKMapView's will have Dark Mode enabled
+Author: KayFam
+Name: DarkMaps
+
