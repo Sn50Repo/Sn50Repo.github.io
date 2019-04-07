@@ -46,3 +46,19 @@ Description: Any MKMapView's will have Dark Mode enabled
 Author: KayFam
 Name: DarkMaps
 
+Package: com.kayfam.hue
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KayFam
+Installed-Size: 404
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs/com.kayfam.hue_0.0.1_iphoneos-arm.deb
+Size: 62478
+MD5sum: ddf567b5c2911f152fd41288cff55de7
+SHA1: 402fd4b440e86ef67daebd2c9cf9cee46ef904f0
+SHA256: 5b86037fe75f225696cf8e3892c77bf0f21070bb88cfed34a6bb1d4f96047c73
+Section: Tweaks
+Description: Customize the shit outta Messages like you made it
+Author: KayFam
+Name: Hue
+
