@@ -53,10 +53,10 @@ Maintainer: KayFam
 Installed-Size: 404
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Filename: debs/com.kayfam.hue_0.0.1_iphoneos-arm.deb
-Size: 62478
-MD5sum: ddf567b5c2911f152fd41288cff55de7
-SHA1: 402fd4b440e86ef67daebd2c9cf9cee46ef904f0
-SHA256: 5b86037fe75f225696cf8e3892c77bf0f21070bb88cfed34a6bb1d4f96047c73
+Size: 62486
+MD5sum: 0e89e49d8b3f69c51123a401077dabdd
+SHA1: ed02b0f22ccb0ecce063df36bf645026bc42736c
+SHA256: 6e2eeeb8d53c00cbea057a56405fb47fe50b75931b829da5854f65fbd2ac3f27
 Section: Tweaks
 Description: Customize the shit outta Messages like you made it
 Author: KayFam
