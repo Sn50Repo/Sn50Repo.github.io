@@ -47,16 +47,16 @@ Author: KayFam
 Name: DarkMaps
 
 Package: com.kayfam.hue
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: KayFam
-Installed-Size: 444
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: debs/com.kayfam.hue_0.0.2_iphoneos-arm.deb
-Size: 66696
-MD5sum: 84cd9a6591571fa0534055781539239c
-SHA1: 24a3893804438c19270aa839b1d491aaa907bcc6
-SHA256: a4d0803634620106354821d56e8a06c87e4e372d5d3ce5ec5b8e0fbc49fba12d
+Installed-Size: 448
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: debs/com.kayfam.hue_0.0.3_iphoneos-arm.deb
+Size: 67438
+MD5sum: f573e299fe992f5176da6f1b92d6ef20
+SHA1: b8d836f71a7289773491bf0e95181220328f4d28
+SHA256: c698254885e5f21d9a9cbe3bbb51d5e2945c5f670fe0cee50a9b7b4069ab5f97
 Section: Tweaks
 Description: Customize the shit outta Messages like you made it
 Author: KayFam
