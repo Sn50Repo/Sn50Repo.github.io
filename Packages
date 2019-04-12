@@ -46,6 +46,22 @@ Description: Any MKMapView's will have Dark Mode enabled
 Author: KayFam
 Name: DarkMaps
 
+Package: com.kayfam.fixspotify
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KayFam
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/com.kayfam.fixspotify_0.0.1_iphoneos-arm.deb
+Size: 4654
+MD5sum: 035e9d6ff047bb7f72dd280051804e95
+SHA1: abca6ff11c3cb6084eb43629bd434a9f03aad624
+SHA256: e7687ab93f5d131c25f33ea444ffa7a5ba150a8f38438ceff16029756ad01fe7
+Section: Tweaks
+Description: fix the easiest bug ever. the last song in the queue being invisible. why didnt spotify fix it if it was so easy? probably because theyre too busy messing with the ui (or theres an actual reason idk but from what i saw it had no reason to be)
+Author: KayFam
+Name: FixSpotify
+
 Package: com.kayfam.hue
 Version: 0.1.2
 Architecture: iphoneos-arm
