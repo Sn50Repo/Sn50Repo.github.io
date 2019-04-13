@@ -85,10 +85,10 @@ Maintainer: KayFam
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: debs/com.kayfam.springbeats_0.0.1_iphoneos-arm.deb
-Size: 4650
-MD5sum: 7a97c5eb87632bef97ef0e8b707610c6
-SHA1: 862f529d24cba37bc67b4ae66a456c8536a84c9f
-SHA256: 30f767a04d0b7250dc1d317f73efcc315941e38b8500f3b084b5764d9bdc865e
+Size: 5812
+MD5sum: dd46f8ebcd0f67a4cfdf3ac967508b6f
+SHA1: 4a05431053e10e92bd4de4b05fa7e793a32bcc9b
+SHA256: 4b499dc056f4379960380dc491864fe37ab072044fc7ff124fbfc62dbde1664b
 Section: Tweaks
 Description: Respring your device and keep the music going!
 Author: KayFam
