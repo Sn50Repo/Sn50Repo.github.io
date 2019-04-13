@@ -78,3 +78,19 @@ Description: Customize the shit outta Messages like you made it
 Author: KayFam
 Name: Hue
 
+Package: com.kayfam.springbeats
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: KayFam
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/com.kayfam.springbeats_0.0.1_iphoneos-arm.deb
+Size: 4650
+MD5sum: 7a97c5eb87632bef97ef0e8b707610c6
+SHA1: 862f529d24cba37bc67b4ae66a456c8536a84c9f
+SHA256: 30f767a04d0b7250dc1d317f73efcc315941e38b8500f3b084b5764d9bdc865e
+Section: Tweaks
+Description: Respring your device and keep the music going!
+Author: KayFam
+Name: SpringBeats
+
