@@ -5,10 +5,10 @@ Maintainer: KayFam
 Installed-Size: 312
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Filename: debs/com.kayfam.appselector_1.0.4_iphoneos-arm.deb
-Size: 25542
-MD5sum: 12471d90b86768e7343f34c99856aa74
-SHA1: c03a43c28c5f0c524d7e54b22aa4ddc9b41350d9
-SHA256: a1deec8da2b35a8b7dfab1fb5795af269225c34fff5af7d51c0c04011a4056cf
+Size: 25536
+MD5sum: 461c85aa3144cf8110a6253f40f80aa0
+SHA1: 9f6ebd0732928fef464076fb74310049c59ef339
+SHA256: 3f39ce8a522b8bf0c1a66a0e8024976d98378bc4d08769f64c83ba8d56c8594b
 Section: Tweaks
 Description: Hide that ugly App Drawer and make return to the olden days when opening your photos didn't take so many presses! If you want to use another app, simply press the button with a little force and the App Drawer will be presented to you. When you select an app, that will become the new app that is opened when you press the button.
 Author: KayFam
