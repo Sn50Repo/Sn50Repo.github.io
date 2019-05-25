@@ -1,16 +1,16 @@
 Package: com.kayfam.appselector
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: KayFam
-Installed-Size: 108
-Depends: mobilesubstrate
-Filename: debs/com.kayfam.appselector_1.0.3_iphoneos-arm.deb
-Size: 8842
-MD5sum: 33f4c6758ea8e624633a5d68d3811354
-SHA1: 5d3d10b72ab35e641dca634df9c480ce8c5da41d
-SHA256: 8a1d538dbee105eeb739f196341a20af3ceaa207a4d102da002d631abcfaeff1
+Installed-Size: 312
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs/com.kayfam.appselector_1.0.4_iphoneos-arm.deb
+Size: 25512
+MD5sum: 16938d42c9c235770f6b960b13bee5a7
+SHA1: ce2b5143007a62648cd080d37991478e1613bd70
+SHA256: aeb0754a01746324d6276b75dd689a4748e0ed46b386d865fc86d4715fc1f935
 Section: Tweaks
-Description: Hide that ugly App Drawer and make return to the olden days when opening your photos didn't take so many presses! If you want to use another app, simply press the button with a little force and the App Drawer will be presented to you. When you select an app, that will become the new app that is opened when you press the button. (Setting to turn this off coming soon)
+Description: Hide that ugly App Drawer and make return to the olden days when opening your photos didn't take so many presses! If you want to use another app, simply press the button with a little force and the App Drawer will be presented to you. When you select an app, that will become the new app that is opened when you press the button.
 Author: KayFam
 Name: AppSelector
 
