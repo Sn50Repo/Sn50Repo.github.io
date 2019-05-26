@@ -31,16 +31,16 @@ Author: gilshahar7, KayFam
 Name: AutoApollo
 
 Package: com.kayfam.darkmaps
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: KayFam
-Installed-Size: 104
+Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs/com.kayfam.darkmaps_0.0.1_iphoneos-arm.deb
-Size: 4700
-MD5sum: 2df30c759bede9ae559b1a793c4e0fc8
-SHA1: 20a5c9003ec5c018b324e4e731d5cddc4b1e765d
-SHA256: 802cc1b36958717938fe4fee58303100ac2dfd7e8718875e67184b1a7246d5aa
+Filename: debs/com.kayfam.darkmaps_0.0.2_iphoneos-arm.deb
+Size: 4148
+MD5sum: 39a4292a7b562846235f9a8a7806a37f
+SHA1: bce7428a821d6a468c68c66c8dffa0dcc3ef1e8b
+SHA256: e30faa90bcd37340f83dc20bca20a9f100c6557c70b64a3b26059174b9627ff2
 Section: Tweaks
 Description: Any MKMapView's will have Dark Mode enabled
 Author: KayFam
