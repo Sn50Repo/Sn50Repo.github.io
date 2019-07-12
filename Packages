@@ -63,18 +63,18 @@ Author: KayFam
 Name: FixSpotify
 
 Package: com.kayfam.hue
-Version: 0.1.2
+Version: 0.1.3
 Architecture: iphoneos-arm
 Maintainer: KayFam
-Installed-Size: 424
+Installed-Size: 488
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker (>= 0.9.3)
-Filename: debs/com.kayfam.hue_0.1.2_iphoneos-arm.deb
-Size: 68838
-MD5sum: e1af30561a273fe0ad0da3b2e03e71a1
-SHA1: 914cfbdb7fd7b4464bb27454ac3196795df77dd5
-SHA256: 802fffc91ef4e247d5399b93b228647e3990e9e3f045278a0417b2e2b24b1962
+Filename: debs/com.kayfam.hue_0.1.3_iphoneos-arm.deb
+Size: 57812
+MD5sum: 840be18d015a0c0cab56200af7a03d8f
+SHA1: ab5a0a8a5130eb7d45ca0ea9241b98fcfcc87a94
+SHA256: fa2ef41d39c74beb5fd3288ebe80d579d6200f0d52d5fde0940daaf9c95c681c
 Section: Tweaks
-Description: Customize the shit outta Messages like you made it
+Description: Customize the Messages App
 Author: KayFam
 Name: Hue
 
